@@ -1,5 +1,1 @@
-Duc Manh Nguyen
-501140042
-
-
-All aspects of my program, including the bonus part and shoes, work well as per the assignment guidelines and the demo video.
+This is a Java program that simulates a simple E-Commerce system: keeps track of products, registered customers, pending orders, and shipped orders.
